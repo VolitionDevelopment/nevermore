@@ -1,0 +1,33 @@
+/* line 1, ../../compass/sass/styles.scss */
+body > .container-fluid {
+    margin-top: 50px;
+}
+
+/* line 5, ../../compass/sass/styles.scss */
+.modal-sm {
+    width: 350px;
+}
+
+/* line 9, ../../compass/sass/styles.scss */
+.navbar-brand > img {
+    max-height: 50px;
+    margin-top: -10px;
+}
+
+/* line 14, ../../compass/sass/styles.scss */
+.header {
+    background: url("/static/images/background.jpg") no-repeat 0 -250px;
+    -webkit-background-size: cover;
+    background-size: cover;
+    height: 350px;
+    width: 100%;
+    position: relative;
+}
+
+/* line 22, ../../compass/sass/styles.scss */
+.header h1 {
+    font-family: 'PT Serif', serif;
+    padding-top: 125px;
+    padding-left: 100px;
+    position: relative;
+}

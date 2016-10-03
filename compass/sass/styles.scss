@@ -1,0 +1,28 @@
+body > .container-fluid {
+  margin-top: 50px;
+}
+
+.modal-sm {
+  width: 350px;
+}
+
+.navbar-brand > img {
+  max-height: 50px;
+  margin-top: -10px;
+}
+
+.header {
+  background: url('/static/images/background.jpg') no-repeat 0 -250px;
+  -webkit-background-size: cover;
+  background-size: cover;
+  height: 350px;
+  width: 100%;
+  position: relative;
+
+  h1 {
+    font-family: 'PT Serif', serif;
+    padding-top: 125px;
+    padding-left: 100px;
+    position: relative;
+  }
+}
